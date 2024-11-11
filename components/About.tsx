@@ -20,11 +20,11 @@ const About = (): JSX.Element => {
 					</p>
 					<div className="mt-8">
 						<h2 className="text-xl font-semibold">Experience</h2>
-						<ul className="list-disc pl-5 mt-4 space-y-2">
+						<ul className="list-disc pl-5 mt-4 space-y-2 text-sm"> {/* Add text-sm here */}
 							<li><strong>Software Engineer Intern, Zynga Inc:</strong> AI and machine learning models for gaming applications 🤖</li>
 							<li><strong>Research Student, University Health Network:</strong> Wearable devices for monitoring & data collection in heart transplant patients 🔬 </li>
 							<li><strong>Software Engineer Intern, TD Bank:</strong> Quantitative analytics platforms & trading algorithms for stock trading 📈</li>
-							<li><strong>Research Student, Sunnybrook Hospital:</strong> Cardiovascular disease biomarkers analysis & in-hosptial glucose sensor implementation for diabetic patients 🫀</li>
+							<li><strong>Research Student, Sunnybrook Hospital:</strong> Cardiovascular disease biomarkers analysis & in-hospital glucose sensor implementation for diabetic patients 🫀</li>
 						</ul>
 					</div>
 				</div>
@@ -32,5 +32,6 @@ const About = (): JSX.Element => {
 		</section>
 	);
 };
+
 
 export default About;
