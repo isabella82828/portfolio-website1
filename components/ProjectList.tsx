@@ -10,7 +10,7 @@ const ProjectList = (): JSX.Element => {
             
             <div>
                 {data.map((project, index) => (
-                    <ProjectItem key={index} project={project} />
+                    <ProjectItem key={index} project={project} index={index} />
                 ))}
             </div>
         </section>
