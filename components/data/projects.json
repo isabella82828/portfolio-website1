@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Spinal Cord Injury Detection 🔗",
+        "description": "🔍 Machine learning model for spinal cord injury detection in ultrasound images.",
+        "img": "/images/projects/spine.png",
+        "link": "https://github.com/isabella82828/Spine-Injury-Detection"
+    },
+    {
+        "title": "Alzheimer's Disease Incidence 🔗",
+        "description": "🧠 Machine learning model for Alzheimer's disease prediction and cost-effective biomarker selection.",
+        "img": "/images/projects/alz.png",
+        "link": "https://github.com/isabella82828/Alzheimers-Disease-Incidence"
+    },
+    {
+        "title": "Human Activity Recognition (HAR) Movement Classifier 🔗",
+        "description": "🩺 Human activities classification based on sensor data and machine learning algorithms.",
+        "img": "/images/projects/har.png",
+        "link": "https://github.com/isabella82828/HAR-Movement-Classifier"
+    },
+    {
+        "title": "Breast Cancer Detection 🔗",
+        "description": "👩‍⚕️ Breast cancer diagnosis from mammograms using image processing and deep learning for early detection.",
+        "img": "/images/projects/brc.png",
+        "link": "https://github.com/isabella82828/Breast-Cancer-Detection"
+    },
+    {
+        "title": "SentiSounds 🔗",
+        "description": "🎶 Analyze sound clips to detect sentiment and emotional tone.",
+        "img": "/images/projects/sounds.png",
+        "link": "https://github.com/isabella82828/SentiSounds"
+    },
+    {
+        "title": "SnapScout 🔗",
+        "description": "📍 Web-app that scouts and navigates to photography hotspots in a city.",
+        "img": "/images/projects/snaps.png",
+        "link": "https://github.com/isabella82828/SnapScout"
+    },
+    {
+        "title": "TerraTrek 🔗",
+        "description": "🌍 Voice-controlled globe that leverages OpenAI to provide interesting facts about geographical locations.",
+        "img": "/images/projects/terratrek.png",
+        "link": "https://github.com/isabella82828/TerraTrek"
+    }
+]
