@@ -21,6 +21,7 @@ const About = (): JSX.Element => {
 					<div className="mt-8">
 						<h2 className="text-xl font-semibold">Experience</h2>
 						<ul className="list-disc pl-5 mt-4 space-y-2 text-sm"> {/* Add text-sm here */}
+							<li><strong>Research Student, SickKids:</strong> Orthopedics🦿</li>
 							<li><strong>Software Engineer and AI Research Intern, Microsoft:</strong> Applied machine learning for health diagnostics 🧠 </li>
 							<li><strong>Undergraduate Research Assistant, University of Waterloo:</strong> Robotics for social assistive agents in diabetic care 🤖</li>
 							<li><strong>Software Engineer Intern, Zynga Inc:</strong> AI and machine learning models for gaming applications 🎮 </li>
